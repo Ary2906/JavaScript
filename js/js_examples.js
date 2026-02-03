@@ -366,10 +366,6 @@ function section40() {
 }
 
 
-// ========================================
-// RUN SECTIONS HERE - Just uncomment the one you want!
-// ========================================
-
 section1();
 // section2();
 // section3();
