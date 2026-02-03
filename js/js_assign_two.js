@@ -289,9 +289,6 @@ function question5() {
 }
 
 
-// ========================================
-// RUN QUESTIONS HERE - Uncomment to run!
-// ========================================
 
 // question1();
 // question2();
